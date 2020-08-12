@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Source</name>
+		<name>Base</name>
 		<description>Kyle's custom rulebooks.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.1.0">
-			<file name="sources.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/source.index" />
+			<file name="sources.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/base.index" />
 		</update>
 	</info>
 	<files>
