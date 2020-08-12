@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>sources</name>
+		<description>Kyle's custom rulebooks.</description>
+		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
+	</info>
+	<files>
+		<obsolete name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/sources.xml" />
+		<file name="dungeon-masters-guide.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide.index" />
+		<file name="monster-manual.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/monster-manual.index" />
+		<file name="players-handbook.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook.index" />
+		
+		<file name="sword-coast-adventurers-guide.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide.index" />
+		<file name="curse-of-strahd.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/curse-of-strahd.index" />
+		<file name="volos-guide-to-monsters.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/volos-guide-to-monsters.index" />
+		<file name="xanathars-guide-to-everything.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything.index" />
+		<file name="mordenkainens-tome-of-foes.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/mordenkainens-tome-of-foes.index" />
+		<file name="eberron-rising-from-the-last-war.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/eberron-rising-from-the-last-war.index" />
+
+		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/adventurers-league.index" />
+
+		<!-- events -->
+		<file name="extra-life.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/extra-life.index" />
+		
+		<obsolete name="lost-laboratory-of-kwalish.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/lost-laboratory-of-kwalish.index" />
+		<obsolete name="locathah-rising.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/locathah-rising.index" />
+	</files>
+</index>
